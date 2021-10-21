@@ -5,5 +5,8 @@ Logiciel réalisée durant ma période de formation en milieu professionel au re
 
 
 
-###Note:
-Unzip package.7z
+### /!\ Changement de nom le 01/01/2022 
+
+BWAnalyer > BWAnalyser
+
+Correction d'ortographe
