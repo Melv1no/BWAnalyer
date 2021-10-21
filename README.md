@@ -9,4 +9,4 @@ Logiciel réalisée durant ma période de formation en milieu professionel au re
 
 BWAnalyer > BWAnalyser
 
-Correction d'ortographe
+Correction d'orthographe
